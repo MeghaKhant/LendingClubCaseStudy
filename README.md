@@ -43,7 +43,7 @@
 - This project was based on the guidelines provided by UpGrad.
 
 ## Contact
-Created by [Megha Khant](https://github.com/meghakhant) and [Anushmita Mukherjee](https://github.com/anushmita-mukherjee) - feel free to contact us!
+Created by [Megha Khant](https://github.com/meghakhant) and [Anushmita Mukherjee](https://github.com/anushmita17) - feel free to contact us!
 
 
 <!-- Optional -->
